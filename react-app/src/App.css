@@ -1,0 +1,19 @@
+.label {
+  color: purple
+}
+
+.details-container {
+  border: solid 1px;
+  border-color: black;
+  border-radius: 5%;
+  margin-top: 2em;
+}
+
+.details-container h2 {
+  text-align: center;
+}
+
+.img {
+  width: 500px; 
+  border-radius: 5%;
+}
